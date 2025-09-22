@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 Featured Projects  
+## 📊 Favourite Projects  
 
 - [**Dissertation Project – Predictive vs. Generative AI**](#)  
   *Comparing traditional predictive models (XGBoost, LSTM) with generative models (GANs, Diffusion) for pricing & demand forecasting. Deployed on AWS SageMaker with a Streamlit dashboard.*  

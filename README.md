@@ -61,7 +61,7 @@
 ## 📊 Favourite Projects  
 
 - [**Dissertation Project – Predictive vs. Generative AI**](#)  
-  *Comparing traditional predictive models (XGBoost, LSTM) with generative models (GANs, Diffusion) for pricing & demand forecasting. Deployed on AWS SageMaker with a Streamlit dashboard.*  
+  *Comparing traditional predictive models with generative models for pricing & demand forecasting. Deployed on AWS SageMaker with a Streamlit dashboard.*  
 
 - [**Customer Churn Prediction**](#)  
   *Machine learning model predicting customer churn, including SHAP-based explainability.*  

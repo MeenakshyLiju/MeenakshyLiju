@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Meenakshy (Meena) Liju  
 
 🎓 **First-class BSc (Hons) Data Science & AI graduate** from Leeds Beckett University.  
-💡 I’m always learning and exploring new ways to apply **machine learning and generative AI** to solve real-world problems.  
+💡 I’m always learning and exploring new ways to apply machine learning and generative AI to solve real-world problems.  
 🏆 Recipient of the **CreateFuture Award for Applied AI** for my dissertation on predictive vs. generative AI in e-commerce forecasting.  
 
 

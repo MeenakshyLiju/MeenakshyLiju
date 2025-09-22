@@ -27,7 +27,6 @@
 ![NLTK](https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logo=python&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-0C55A5?style=for-the-badge&logo=python&logoColor=white) 
-![Prophet](https://img.shields.io/badge/Facebook%20Prophet-0064E0?style=for-the-badge&logo=facebook&logoColor=white)  
 *Experience with predictive modelling, generative AI (GANs, VAEs, Diffusion Models), NLP, and time-series forecasting.*
 
 

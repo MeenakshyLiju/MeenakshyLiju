@@ -29,11 +29,12 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-0C55A5?style=for-the-badge&logo=python&logoColor=white) 
 
 
-*Experience with predictive modelling, generative AI (GANs, VAEs, Diffusion Models), NLP, and time-series forecasting.*
+*Experience with predictive modelling, Generative AI (GANs, VAEs, Diffusion Models), NLP, and time-series forecasting.*
 
 
 **Cloud & Deployment**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
